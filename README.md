@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Currently completing a part-time Masters in Software Development.
+Currently exploring full stack development.
+When not trying to cultivate my coding I can be found keeping my budding houseplant collection alive🌱
 <!--
 **emma-robin/emma-robin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
